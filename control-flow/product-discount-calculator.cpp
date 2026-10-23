@@ -13,9 +13,8 @@ int main() {
     string bonus = "TIDAK ADA BONUS";
     string nama_barang = "TIDAK ADA BARANG";
 
-    cout << "--------------------TOKO BABA SLAMET----------------------" << endl;
+    cout << "----------------PRODUCT DISCOUNT CALCULATOR----------------" << endl;
     cout << "==========================================================" << endl;
-    cout << "-------------------PVEGANANDA CHANNEL---------------------" << endl;
     cout << endl;
     cout << endl;
 
@@ -28,9 +27,8 @@ int main() {
 
     system("cls");
 
-    cout << "--------------------TOKO BABA SLAMET----------------------" << endl;
+    cout << "----------------PRODUCT DISCOUNT CALCULATOR----------------" << endl;
     cout << "==========================================================" << endl;
-    cout << "-------------------PVEGANANDA CHANNEL---------------------" << endl;
     cout << endl;
     cout << endl;
 

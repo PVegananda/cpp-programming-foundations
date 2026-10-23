@@ -11,9 +11,8 @@ int main() {
     double harga_ticket, jam_parkir = 0;
     string nama_kendaraan;
 
-    cout << "----------------TICKET PARKIR JAYA MALL-------------------" << endl;
+    cout << "-------------------PARKING FEE CALCULATOR------------------" << endl;
     cout << "==========================================================" << endl;
-    cout << "-------------------PVEGANANDA CHANNEL---------------------" << endl;
     cout << endl;
     cout << endl;
 
@@ -28,9 +27,8 @@ int main() {
 
     system("cls"); // menghapus text di atas.
 
-    cout << "----------------TICKET PARKIR JAYA MALL-------------------" << endl;
+    cout << "-------------------PARKING FEE CALCULATOR------------------" << endl;
     cout << "==========================================================" << endl;
-    cout << "-------------------PVEGANANDA CHANNEL---------------------" << endl;
     cout << endl;
     cout << endl;
 

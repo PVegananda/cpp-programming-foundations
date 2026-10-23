@@ -10,9 +10,8 @@ int main() {
     double harga_satuan, diskon, harga_akhir, harga_diskon, jumlah_barang, total_harga = 0;
     string nama_barang;
 
-    cout << "------------------TOKO UD MURAH MERIAH--------------------" << endl;
+    cout << "-----------------BULK PURCHASE DISCOUNT-------------------" << endl;
     cout << "==========================================================" << endl;
-    cout << "-------------------PVEGANANDA CHANNEL---------------------" << endl;
     cout << endl;
     cout << endl;
 
@@ -30,7 +29,7 @@ int main() {
 
     cout << fixed << setprecision(0);
 
-    //percabangan
+    // Apply a volume-based discount.
 
     if (jumlah_barang >= 3 && jumlah_barang <= 5){ // diantara 3 dan 5 , {3,4,5}
         diskon = 0.02; // 2%

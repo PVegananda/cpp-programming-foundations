@@ -5,8 +5,7 @@ using namespace std; //agar tidak selalu menuliskan std:: pada coding kita
 
 int main() { //fungsi main
 
-    // Kasus Pertama
-    cout<<"Kasus Persamaan Matematika"<<endl;
+    cout<<"Mathematical Formulas"<<endl;
     cout<<"=========================="<<endl;
 
     cout<<endl;
@@ -26,7 +25,7 @@ int main() { //fungsi main
 
     float b;
     float c;
-    cout<<"Kasus Persamaan Matematika Kedua"<<endl;
+    cout<<"Quadratic Formula"<<endl;
     cout<<"================================"<<endl;
     cout<<"Masukkan Nilai dari a = ";
     cin>>a;
@@ -48,7 +47,7 @@ int main() { //fungsi main
     float d;
     float e;
 
-    cout<<"Kasus Penjumalahan dan Rata-rata"<<endl;
+    cout<<"Sum and Average"<<endl;
     cout<<"================================"<<endl;
     cout<<"Masukkan Nilai dari a = ";
     cin>>a;

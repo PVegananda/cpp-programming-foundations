@@ -8,7 +8,7 @@ int main() { //fungsi main
     float a = 10;
     float b = 6;
 
-    cout<<"Kasus 1"<<endl;
+    cout<<"Arithmetic Operations"<<endl;
     cout<<"================"<<endl;
     cout<<endl;
 
